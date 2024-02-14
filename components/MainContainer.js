@@ -1,6 +1,6 @@
 import Navbar from "./Navbar";
-import styles from '../styles/Home.module.css'
 import Footer from "./Footer";
+import styles from "../styles/MainContainer.module.css";
 
 export default function MainContainer({ children }) {
     return (

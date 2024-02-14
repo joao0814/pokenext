@@ -1,10 +1,10 @@
+import styles from '../styles/HomePage.module.css'
 
 export default function Home() {
   return (
     <>
-      <div>
-        <h1>hello world</h1>
-        <p>This is the home page</p>
+      <div className={styles.home}>
+        <h1>Hello World</h1>
       </div>
     </>
   )
