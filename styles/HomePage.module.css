@@ -1,3 +1,8 @@
-.home {
-    background-color: #fff
+.title {
+    color: white;
+    background-image: url('/public/images/city.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    margin-bottom: 20px;
 }
