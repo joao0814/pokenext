@@ -9,12 +9,15 @@ export default function Navbar() {
                     <Link href="/">Home</Link>
                 </li>
                 <li>
-                    <Link href="../products">Produtos</Link>
+                    <Link href="../products">Products</Link>
                 </li>
                 <li>
-                    <Link href="../about">Sobre</Link>
+                    <Link href="../about">About</Link>
+                </li>
+                <li>
+                    <Link href="../contact">Contact</Link>
                 </li>
             </ul>
         </div>
     )
-}
+}   
